@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+responseText
+]]></content>
+  <tabTrigger>ret</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

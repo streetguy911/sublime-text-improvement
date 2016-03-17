@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/* ${0:helper} */
+]]></content>
+	<tabTrigger>comm</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+stopPropagation();
+]]></content>
+  <tabTrigger>stp</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+onreadystatechange = function () {
+  ${0}
+}
+]]></content>
+  <tabTrigger>onr</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

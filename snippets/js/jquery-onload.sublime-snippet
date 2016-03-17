@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+jQuery(function(${1}){
+  
+    var ${2}
+
+});
+]]></content>
+	<tabTrigger>q</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

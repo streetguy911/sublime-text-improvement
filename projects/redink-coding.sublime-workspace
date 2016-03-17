@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/volodymyr/Sites/redink-website-coding/assets/built/html/single-case.html",
+			"settings":
+			{
+				"buffer_size": 31853,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ip",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"sesch",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/volodymyr/Sites/redink-website-coding"
+	],
+	"file_history":
+	[
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html/DefaultNode.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/reducers/index.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/libs/Device.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/libs/Screen.jsx",
+		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/redink.sublime-project",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/gulpfile.js",
+		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/GoldenRatio/GoldenRatio.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<img sr",
+			"img",
+			"<div>...",
+			"last-paradise",
+			"<img src",
+			"<div>",
+			"Historier",
+			"Home",
+			"react-addons-css-transition-group",
+			":build",
+			"192."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/volodymyr/Sites/redink-website-coding/assets/built/html/single-case.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10312,
+								10312
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1238.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redink-coding.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"basesas",
+				"assets/src/sass/partials/_base.sass"
+			],
+			[
+				"color",
+				"assets/src/sass/constants/_colors.sass"
+			],
+			[
+				"partlistsas",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"aboutjs",
+				"assets/src/javascripts/app/containers/Pages/About.jsx"
+			],
+			[
+				"contentsas",
+				"assets/src/sass/components/_content.sass"
+			],
+			[
+				"stepssass",
+				"assets/src/sass/partials/_section-about-steps.sass"
+			],
+			[
+				"fontslist",
+				"assets/src/sass/fonts/_list.sass"
+			],
+			[
+				"fontslistsas",
+				"assets/src/sass/fonts/_list.sass"
+			],
+			[
+				"fontssass",
+				"assets/src/sass/fonts.sass"
+			],
+			[
+				"partlissas",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"sectiheasas",
+				"assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"ulpfi",
+				"gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/redink.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

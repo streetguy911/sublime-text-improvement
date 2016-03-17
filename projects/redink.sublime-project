@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"node_modules"
+			],
+			"path": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink"
+		}
+	]
+}

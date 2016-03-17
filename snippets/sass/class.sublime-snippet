@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+&.${1:class}
+	${0}
+]]></content>
+	<tabTrigger>.</tabTrigger>
+	<scope>source.sass</scope>
+</snippet>

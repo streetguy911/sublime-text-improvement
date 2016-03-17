@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
++breakpoint-max(${1:width})
+	${0}
+]]></content>
+	<tabTrigger>bpm</tabTrigger>
+	<scope>source.sass</scope>
+</snippet>

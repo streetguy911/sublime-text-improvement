@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+static_grid_width(${1:${2:col-number}, ${3:cols-number}, ${4:grid-wrapper}, ${5:grid-margin}})
+]]></content>
+  <tabTrigger>sgrw</tabTrigger>
+  <scope>source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<${1:div} ${2:class="${3}"}>${4:
+    }$SELECTION${0}${4:
+}</${1:div}>
+]]></content>
+  <scope>text.html</scope>
+</snippet>
