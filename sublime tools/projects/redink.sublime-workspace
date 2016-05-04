@@ -3,47 +3,43 @@
 	{
 		"selected_items":
 		[
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"b",
+				"blur	.blur()"
+			],
+			[
+				"label",
+				"labelNode"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"chcc",
+				"chart-cake-container-86"
+			],
+			[
+				"chc",
+				"chart-cake-right"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/gulpfile.js",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/index.php",
 			"settings":
 			{
-				"buffer_size": 3853,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/cases.php",
-			"settings":
-			{
-				"buffer_size": 134,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/People/Grid.jsx",
-			"settings":
-			{
-				"buffer_size": 2713,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Layout.jsx",
-			"settings":
-			{
-				"buffer_size": 3982,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation.jsx",
-			"settings":
-			{
-				"buffer_size": 2531,
+				"buffer_size": 118,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,15 +47,105 @@
 			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_caption.sass",
 			"settings":
 			{
-				"buffer_size": 692,
+				"buffer_size": 1513,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_shortcode-diagram.sass",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_top-navigation.sass",
 			"settings":
 			{
-				"buffer_size": 1489,
+				"buffer_size": 2080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-live-text.sass",
+			"settings":
+			{
+				"buffer_size": 1158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/theme/Initialization.php",
+			"settings":
+			{
+				"buffer_size": 4840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/built/stylesheets/editor.css",
+			"settings":
+			{
+				"buffer_size": 23107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_gallery.sass",
+			"settings":
+			{
+				"buffer_size": 2739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_image-caption.sass",
+			"settings":
+			{
+				"buffer_size": 1794,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 329 files for \"background: rgba(white,.2)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(white,.2)\"\nSearching 70 files for \"background: rgba(white,.2)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(white,.3)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(white,.4)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(white,.1)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(white,0.3)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(#fff,0.3)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(#fff, 0.3)\"\nSearching 70 files for \"background: rgba(#fff, 0.3)\"\n\n0 matches\n\nSearching 70 files for \"background: rgba(#fff, .3)\"\n\n/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_case-listing.sass:\n   47              &:hover\n   48                  &:before\n   49:                     background: rgba(#fff, .3)\n   50              img\n   51                  display: block\n\n/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_gallery.sass:\n   33          &:hover\n   34              &:before\n   35:                 background: rgba(#fff, .3)\n   36          &.widget-1\n   37              width: calc((100% - 2px)/3)\n\n/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_related-posts.sass:\n   94              &:hover\n   95                  &:before\n   96:                     background: rgba(#fff, .3)\n   97              img\n   98                  display: block\n\n3 matches across 3 files\n\n\nSearching 62 files for \"Blur\" (case sensitive)\n\n/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html.jsx:\n   11  import Man from './Chart/Man.jsx';\n   12  \n   13: import Blur from './../partails/Pages/About/Blur.jsx';\n   14  import ProjectsInCaseWidget from './../containers/Projects/ProjectsInCaseWidget.jsx';\n   15  \n   ..\n   40                  return (<LazyLoad once offset={200}><ProjectsInCaseWidget {...item.attr} key={'projects-' + item.attr.ids} /></LazyLoad>);\n   41              case 'blur':\n   42:                 return (<Blur {...item.attr} />);\n   43              case 'pie':\n   44                  return (<LazyLoad once offset={-200}><Pie {...item.attr} /></LazyLoad>);\n\n/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/About/Blur.jsx:\n    2  import { connect } from 'react-redux';\n    3  \n    4: export default class Blur extends Component {\n    5  \n    6      constructor(props) {\n    .\n  172  }\n  173  \n  174: export default connect(select)(Blur);\n  175  \n\n5 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 2731,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html.jsx",
+			"settings":
+			{
+				"buffer_size": 2971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_mooses.sass",
+			"settings":
+			{
+				"buffer_size": 2375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_related-posts.sass",
+			"settings":
+			{
+				"buffer_size": 2817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-people-single.sass",
+			"settings":
+			{
+				"buffer_size": 3745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_case-listing.sass",
+			"settings":
+			{
+				"buffer_size": 2492,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,143 +153,23 @@
 			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_base.sass",
 			"settings":
 			{
-				"buffer_size": 6380,
+				"buffer_size": 7051,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_reset.sass",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_main-footer.sass",
 			"settings":
 			{
-				"buffer_size": 2317,
+				"buffer_size": 593,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_top-navigation.sass",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_grid.sass",
 			"settings":
 			{
-				"buffer_size": 1744,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_main-header.sass",
-			"settings":
-			{
-				"buffer_size": 3369,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_mooses.sass",
-			"settings":
-			{
-				"buffer_size": 672,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_about-options.sass",
-			"settings":
-			{
-				"buffer_size": 1002,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-about-steps.sass",
-			"settings":
-			{
-				"buffer_size": 749,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_content.sass",
-			"settings":
-			{
-				"buffer_size": 6271,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts/_list.sass",
-			"settings":
-			{
-				"buffer_size": 648,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-heading.sass",
-			"settings":
-			{
-				"buffer_size": 1966,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx",
-			"settings":
-			{
-				"buffer_size": 3328,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/Home.jsx",
-			"settings":
-			{
-				"buffer_size": 2000,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home/Cases.jsx",
-			"settings":
-			{
-				"buffer_size": 1804,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/reducers/index.jsx",
-			"settings":
-			{
-				"buffer_size": 520,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/actions/cases.jsx",
-			"settings":
-			{
-				"buffer_size": 2797,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home/Video.jsx",
-			"settings":
-			{
-				"buffer_size": 1089,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/about-us.php",
-			"settings":
-			{
-				"buffer_size": 137,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app.jsx",
-			"settings":
-			{
-				"buffer_size": 2066,
+				"buffer_size": 6035,
 				"line_ending": "Unix"
 			}
 		},
@@ -211,15 +177,183 @@
 			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/store.jsx",
 			"settings":
 			{
-				"buffer_size": 1819,
+				"buffer_size": 2357,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/index.php",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/About/Blur.jsx",
 			"settings":
 			{
-				"buffer_size": 462,
+				"buffer_size": 5324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/Chart/Pie.jsx",
+			"settings":
+			{
+				"buffer_size": 2748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/Chart/Man.jsx",
+			"settings":
+			{
+				"buffer_size": 1654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_content.sass",
+			"settings":
+			{
+				"buffer_size": 7063,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/helpers/_retina-detect.sass",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectSingle.jsx",
+			"settings":
+			{
+				"buffer_size": 4834,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-heading.sass",
+			"settings":
+			{
+				"buffer_size": 2470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Blog/BlogArchive.jsx",
+			"settings":
+			{
+				"buffer_size": 4846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Blog/Post.jsx",
+			"settings":
+			{
+				"buffer_size": 2151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_list.sass",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_author.sass",
+			"settings":
+			{
+				"buffer_size": 624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_blog-feed-item.sass",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/editor.sass",
+			"settings":
+			{
+				"buffer_size": 3611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Blog/BlogSingle.jsx",
+			"settings":
+			{
+				"buffer_size": 1442,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_fonts.sass",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts/_apercu.sass",
+			"settings":
+			{
+				"buffer_size": 2974,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_post-type-categories.sass",
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/filter.jsx",
+			"settings":
+			{
+				"buffer_size": 1569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx",
+			"settings":
+			{
+				"buffer_size": 3430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Cases/CasesArchive.jsx",
+			"settings":
+			{
+				"buffer_size": 2801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation.jsx",
+			"settings":
+			{
+				"buffer_size": 3089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation/item.jsx",
+			"settings":
+			{
+				"buffer_size": 1606,
 				"line_ending": "Unix"
 			}
 		},
@@ -227,23 +361,31 @@
 			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/About.jsx",
 			"settings":
 			{
-				"buffer_size": 11465,
+				"buffer_size": 2089,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_colors.sass",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/about.php",
 			"settings":
 			{
-				"buffer_size": 258,
-				"line_ending": "Windows"
+				"buffer_size": 159,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_list.sass",
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/header.php",
 			"settings":
 			{
-				"buffer_size": 427,
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/pages/static/about.php",
+			"settings":
+			{
+				"buffer_size": 9996,
 				"line_ending": "Unix"
 			}
 		}
@@ -255,13 +397,25 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "ip",
+		"height": 87.0,
+		"last_filter": "sssass",
 		"selected_items":
 		[
 			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
 				"ip",
 				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"sche",
@@ -280,7 +434,7 @@
 				"Set Syntax: Shell Script (Bash)"
 			]
 		],
-		"width": 593.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -303,32 +457,94 @@
 	[
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/built",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/built/stylesheets",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/libs",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/actions",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/reducers",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates"
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails"
 	],
 	"file_history":
 	[
-		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/volodymyr/Sites/vagrant/www/default/afgruppen/includes/functions.php",
+		"/Users/volodymyr/Sites/vagrant/www/default/afgruppen/index.php",
+		"/Users/volodymyr/Sites/vagrant/www/default/afgruppen/partials/header.php",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/SideAnimated.jsx",
+		"/Users/volodymyr/Sites/tutorials/angular/db.js",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/About/AnimatedMoose.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/helpers/_simple-transition.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/gulpfile.js",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/pages/Functions.php",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/built/images/svg/man.svg",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/images/svg/man.svg",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/actions/cases.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_colors.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_list.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/About.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/pages/static/about.php",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/store.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home/Video.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/reducers/index.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home/Cases.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/Home.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-people-single.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/theme/Initialization.php",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/footer.php",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts/_list.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Cases/Related.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_related-posts.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-single-project.sass",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_case-listing.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_gallery.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_wordpress.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/Gallery.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/cases.php",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/People/Grid.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Layout.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/style.css",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_caption.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-heading.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts/_apercu.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/bottom.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_list.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_fonts.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_shortcode-diagram.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_base.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/People/PeopleArchive.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_image-caption.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Cases/CaseSingle.jsx",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html.jsx",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html/DefaultNode.jsx",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/reducers/index.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Cases/CasesArchive.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html/paragraph.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html/Iframe.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/prerender.jsx",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_popup.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_reset.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_archive-filters.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_slider.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_byline.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_fadeblurable.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/helpers/_grid.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_grid.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_css-chart.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_top-navigation.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_main-header.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_mooses.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_about-options.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-about-steps.sass",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_content.sass",
+		"/Users/volodymyr/Downloads/мамина книга.txt",
+		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/about-us.php",
+		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/libs/Device.jsx",
 		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/libs/Screen.jsx",
 		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/redink.sublime-project",
-		"/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/gulpfile.js",
 		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/volodymyr/Library/Application Support/Sublime Text 3/Packages/GoldenRatio/GoldenRatio.sublime-settings"
 	],
@@ -338,16 +554,107 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"*.jsx",
+			"*.sass",
+			""
 		]
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"700",
+			"opacity: .3",
+			"\n            text",
+			"text",
+			"imageSrc",
+			"SideAnimated",
+			"Blur",
+			"<div class=\"row\">",
+			"<div",
+			"row",
+			",",
+			"excerpt",
+			"background: rgba(#fff, .3)",
+			"background: rgba(#fff, 0.3)",
+			"background: rgba(#fff,0.3)",
+			"background: rgba(white,0.3)",
+			"background: rgba(white,.1)",
+			"background: rgba(white,.4)",
+			"background: rgba(white,.3)",
+			"background: rgba(white,.2)",
+			"0",
+			"see-mo",
+			"georgia",
+			"2s",
+			"handleScroll",
+			"fadeblurable",
+			"h2",
+			"<a href=\"#\">",
+			"image",
+			"fadeblurable",
+			"brightness",
+			"brightless",
+			"blur(${blur}px)",
+			"wp-caption",
+			"opacity,",
+			"clip: auto",
+			"none",
+			"300ms",
+			"120px, 0",
+			"120px",
+			"300ms",
+			"+simple-transition",
+			"animation-name",
+			"$i*50ms",
+			"(500ms,",
+			"500ms",
+			"300ms",
+			".chart-cake-helper",
+			"&:nth-child(3n",
+			"&:nth-child(",
+			"&:nth-child(3n+1)",
+			"&:nth-child",
+			"10px",
+			".chart-cake-helper-slice",
+			"&:nth-child(1)",
+			"fill,",
+			"fill",
+			"fill: #d6b990",
+			"fill",
+			"fill: #d6b990",
+			"<use",
+			"file_get_content",
+			"use",
+			"Use",
+			"Use.jsx",
+			"gulp.start",
+			"window.addEventListener",
+			"animation-timing-function: linear",
+			"@keyframes chart-cake-container",
+			"animation-duration: .6s",
+			"<img",
+			"animation-duration: 1s",
+			"50",
+			"animation-duration: 500ms",
+			"animation-duration:",
+			"#d6b990",
+			"<div class=\"chart-cake-helper\"></div>",
+			"animation-duration",
+			"<div class=\"css-chart chart-cake\"",
+			"<img",
+			"<img ",
+			"<img",
+			"slick-dots",
+			"single-project-shown",
+			"siproshown",
+			"fonts",
+			"+breakpoint-max(1250)",
+			".excer",
 			"captio",
 			"h4",
 			"width",
@@ -398,19 +705,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/gulpfile.js",
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3853,
+						"buffer_size": 118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2754,
-								2754
+								118,
+								118
 							]
 						],
 						"settings":
@@ -418,167 +725,113 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 822.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 30,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/cases.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								134
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_caption.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/People/Grid.jsx",
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_top-navigation.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2713,
+						"buffer_size": 2080,
 						"regions":
 						{
 						},
@@ -591,91 +844,64 @@
 						],
 						"settings":
 						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 327.0,
+						"translation.x": 0.0,
+						"translation.y": 72.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Layout.jsx",
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-live-text.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3982,
+						"buffer_size": 1158,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2887,
-								2887
+								426,
+								428
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/theme/Initialization.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2378,
+								2382
 							]
 						],
 						"settings":
@@ -683,11 +909,6 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -698,6 +919,16 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -708,132 +939,39 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/JSX/JSX.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2531,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								525,
-								525
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
-							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 653.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -841,1258 +979,11 @@
 				},
 				{
 					"buffer": 5,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_caption.sass",
-					"semi_transient": false,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/built/stylesheets/editor.css",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 692,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								643,
-								643
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_shortcode-diagram.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								327,
-								327
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_base.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6380,
-								6380
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_reset.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2317,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1215,
-								1215
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_top-navigation.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1744,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1568,
-								1571
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_main-header.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3369,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								228,
-								228
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_mooses.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 672,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								465,
-								465
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_about-options.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1002,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								321,
-								321
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-about-steps.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 749,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								334,
-								336
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_content.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6271,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								790,
-								790
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts/_list.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 648,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								648,
-								648
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-heading.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1966,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1132,
-								1132
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3328,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3027,
-								2641
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JSX/JSX.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/Home.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2000,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1826,
-								1826
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home/Cases.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1804,
+						"buffer_size": 23107,
 						"regions":
 						{
 						},
@@ -2108,16 +999,46 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2128,42 +1049,183 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1624.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_gallery.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_image-caption.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2731,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										882,
+										908
+									],
+									[
+										1163,
+										1189
+									],
+									[
+										1474,
+										1500
+									],
+									[
+										1828,
+										1832
+									],
+									[
+										1865,
+										1869
+									],
+									[
+										2193,
+										2197
+									],
+									[
+										2564,
+										2568
+									],
+									[
+										2690,
+										2694
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								2196,
+								2196
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"default_dir": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 10,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/html.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
 							"syntax": "Packages/JSX/JSX.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -2176,12 +1238,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 20,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/reducers/index.jsx",
+					"buffer": 10,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_mooses.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 520,
+						"buffer_size": 2375,
 						"regions":
 						{
 						},
@@ -2190,6 +1252,192 @@
 							[
 								0,
 								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_related-posts.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-people-single.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_case-listing.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1436
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_base.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3494,
+								3494
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_main-footer.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_grid.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
 							]
 						],
 						"settings":
@@ -2207,6 +1455,310 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/store.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1271,
+								1271
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/About/Blur.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/Chart/Pie.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2131,
+								2131
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/Chart/Man.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 12.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_content.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2217,43 +1769,1763 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/helpers/_retina-detect.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 28.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectSingle.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4324,
+								4314
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-heading.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Blog/BlogArchive.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4303,
+								4303
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1122.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Blog/Post.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1905,
+								1905
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_list.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_author.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_blog-feed-item.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/editor.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								856,
+								856
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Blog/BlogSingle.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1180
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_fonts.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								36
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/fonts/_apercu.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_post-type-categories.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/filter.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								678
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Cases/CasesArchive.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2331,
+								2574
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/components/navigation/item.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1516,
+								1516
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 112.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/About.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content"
 							],
-							"syntax": "Packages/JSX/JSX.tmLanguage"
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 14,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_base.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2431,
+								2431
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 911.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/About.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/modules/pages/static/about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2045,
+								2045
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -2264,19 +3536,19 @@
 				},
 				{
 					"buffer": 21,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/actions/cases.jsx",
+					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/components/_content.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2797,
+						"buffer_size": 7063,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								985,
+								985
 							]
 						],
 						"settings":
@@ -2294,867 +3566,62 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JSX/JSX.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 123.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/partails/Pages/Home/Video.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1089,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								146,
-								146
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JSX/JSX.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 26,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/templates/about-us.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								87
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 27,
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2066,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1046,
-								1046
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 25,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/storage/store.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1819,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"syntax": "Packages/JSX/JSX.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 87.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 462,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								462,
-								462
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"history_list_is_closing": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/About.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1631,
-								1631
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/JSX/JSX.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
-				{
-					"buffer": 28,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/constants/_colors.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								240,
-								248
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"history_list_is_closing": true,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 29,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_list.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 427,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								427,
-								427
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "/Users/volodymyr/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/javascripts/app/containers/Pages/About.jsx",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8294,
-								8294
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
 							],
-							"open_with_edit": true,
-							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1043.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 13,
 					"type": "text"
 				}
 			]
@@ -3188,7 +3655,7 @@
 		"cols":
 		[
 			0.0,
-			0.61804697157,
+			0.531320133462,
 			1.0
 		],
 		"rows":
@@ -3216,28 +3683,508 @@
 		"selected_items":
 		[
 			[
+				"theme",
+				"modules/theme/Initialization.php"
+			],
+			[
+				"aditor",
+				"assets/src/sass/editor.sass"
+			],
+			[
+				"contentsass",
+				"assets/src/sass/components/_content.sass"
+			],
+			[
+				"blog",
+				"assets/src/javascripts/app/containers/Blog/BlogSingle.jsx"
+			],
+			[
+				"bloar",
+				"assets/src/javascripts/app/containers/Blog/BlogArchive.jsx"
+			],
+			[
+				"blogsi",
+				"assets/src/javascripts/app/containers/Blog/BlogSingle.jsx"
+			],
+			[
+				"apercu",
+				"assets/src/sass/fonts/_apercu.sass"
+			],
+			[
+				"fon",
+				"assets/src/sass/constants/_fonts.sass"
+			],
+			[
+				"contentsas",
+				"assets/src/sass/components/_content.sass"
+			],
+			[
+				"partlis",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"basesass",
+				"assets/src/sass/partials/_base.sass"
+			],
+			[
+				"content",
+				"assets/src/sass/components/_content.sass"
+			],
+			[
+				"post",
+				"assets/src/javascripts/app/partails/Blog/Post.jsx"
+			],
+			[
+				"partlissass",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"filter",
+				"assets/src/javascripts/app/components/filter.jsx"
+			],
+			[
+				"projear",
+				"assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx"
+			],
+			[
+				"casearch",
+				"assets/src/javascripts/app/containers/Cases/CasesArchive.jsx"
+			],
+			[
+				"blogjsx",
+				"assets/src/javascripts/app/containers/Blog/BlogArchive.jsx"
+			],
+			[
+				"appstore",
+				"assets/src/javascripts/app/storage/store.jsx"
+			],
+			[
+				"gridsass",
+				"assets/src/sass/partials/_grid.sass"
+			],
+			[
+				"html.",
+				"assets/src/javascripts/app/components/html.jsx"
+			],
+			[
+				"retinade",
+				"assets/src/sass/helpers/_retina-detect.sass"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"basesa",
+				"assets/src/sass/partials/_base.sass"
+			],
+			[
+				"mooses",
+				"assets/src/sass/partials/_mooses.sass"
+			],
+			[
 				"",
-				"assets/src/javascripts/app/components/navigation.jsx"
+				"assets/src/sass/partials/_top-navigation.sass"
+			],
+			[
+				"manjsx",
+				"assets/src/javascripts/app/components/Chart/Man.jsx"
+			],
+			[
+				"blur",
+				"assets/src/javascripts/app/partails/Pages/About/Blur.jsx"
+			],
+			[
+				"man.jsx",
+				"assets/src/javascripts/app/components/Chart/Man.jsx"
+			],
+			[
+				"pie.jsx",
+				"assets/src/javascripts/app/components/Chart/Pie.jsx"
 			],
 			[
 				"about",
 				"assets/src/javascripts/app/containers/Pages/About.jsx"
 			],
 			[
-				"conte",
-				"assets/src/sass/components/_content.sass"
+				"aboutjsx",
+				"assets/src/javascripts/app/containers/Pages/About.jsx"
+			],
+			[
+				"nivisas",
+				"assets/src/sass/partials/_top-navigation.sass"
+			],
+			[
+				"captisas",
+				"assets/src/sass/partials/_caption.sass"
+			],
+			[
+				"a",
+				"assets/src/javascripts/app/containers/Pages/About.jsx"
+			],
+			[
+				"basesas",
+				"assets/src/sass/partials/_base.sass"
+			],
+			[
+				"footersas",
+				"assets/src/sass/partials/_main-footer.sass"
+			],
+			[
+				"naviitem",
+				"assets/src/javascripts/app/components/navigation/item.jsx"
+			],
+			[
+				"navijsx",
+				"assets/src/javascripts/app/components/navigation.jsx"
+			],
+			[
+				"navisas",
+				"assets/src/sass/partials/_top-navigation.sass"
+			],
+			[
+				"peoplesisa",
+				"assets/src/sass/partials/_section-people-single.sass"
+			],
+			[
+				"image",
+				"assets/src/sass/partials/_image-caption.sass"
+			],
+			[
+				"seclivetesas",
+				"assets/src/sass/partials/_section-live-text.sass"
+			],
+			[
+				"secheadi",
+				"assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"proj",
+				"assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx"
+			],
+			[
+				"projects",
+				"assets/src/javascripts/app/containers/Projects/ProjectSingle.jsx"
+			],
+			[
+				"caption",
+				"assets/src/sass/partials/_caption.sass"
+			],
+			[
+				"gallesas",
+				"assets/src/sass/partials/_gallery.sass"
+			],
+			[
+				"themeinit",
+				"modules/theme/Initialization.php"
+			],
+			[
+				"seclitesass",
+				"assets/src/sass/partials/_section-live-text.sass"
+			],
+			[
+				"naviga",
+				"assets/src/javascripts/app/components/navigation.jsx"
+			],
+			[
+				"navigasas",
+				"assets/src/sass/partials/_top-navigation.sass"
+			],
+			[
+				"people",
+				"assets/src/javascripts/app/containers/People/PeopleArchive.jsx"
+			],
+			[
+				"pro",
+				"assets/src/javascripts/app/containers/Projects/ProjectsArchive.jsx"
+			],
+			[
+				"slider",
+				"assets/src/sass/partials/_slider.sass"
+			],
+			[
+				"image-caption",
+				"assets/src/sass/partials/_image-caption.sass"
+			],
+			[
+				"video",
+				"assets/src/javascripts/app/partails/Pages/Home/Video.jsx"
+			],
+			[
+				"imagecap",
+				"assets/src/sass/partials/_image-caption.sass"
+			],
+			[
+				"const",
+				"assets/src/sass/constants/_fonts.sass"
+			],
+			[
+				"aper",
+				"assets/src/sass/fonts/_apercu.sass"
+			],
+			[
+				"fontssass",
+				"assets/src/sass/fonts.sass"
+			],
+			[
+				"fonts",
+				"assets/src/sass/fonts.sass"
+			],
+			[
+				"case-list",
+				"assets/src/sass/partials/_case-listing.sass"
+			],
+			[
+				"reposas",
+				"assets/src/sass/partials/_related-posts.sass"
+			],
+			[
+				"galler",
+				"assets/src/sass/partials/_gallery.sass"
+			],
+			[
+				"sepesisa",
+				"assets/src/sass/partials/_section-people-single.sass"
+			],
+			[
+				"headersas",
+				"assets/src/sass/partials/_main-header.sass"
+			],
+			[
+				"fle",
+				"assets/src/sass/partials/_fadeblurable.sass"
+			],
+			[
+				"gallar",
+				"assets/src/sass/partials/_gallery.sass"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"byline",
+				"assets/src/sass/partials/_byline.sass"
+			],
+			[
+				"casesingle",
+				"assets/src/javascripts/app/containers/Cases/CaseSingle.jsx"
+			],
+			[
+				"relatedsass",
+				"assets/src/sass/partials/_related-posts.sass"
+			],
+			[
+				"related",
+				"assets/src/javascripts/app/partails/Cases/Related.jsx"
+			],
+			[
+				"repo",
+				"assets/src/sass/partials/_related-posts.sass"
+			],
+			[
+				"secsi",
+				"assets/src/sass/partials/_section-single-project.sass"
+			],
+			[
+				"gallery",
+				"assets/src/sass/partials/_gallery.sass"
+			],
+			[
+				"sectionheadi",
+				"assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"color",
+				"assets/src/sass/constants/_colors.sass"
 			],
 			[
 				"base",
 				"assets/src/sass/partials/_base.sass"
 			],
 			[
-				"optisas",
+				"partlistsa",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"sectiohead",
+				"assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"sechead",
+				"~/Sites/vagrant/www/wordpress-default/wp-content/themes/redink/assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"case",
+				"assets/src/javascripts/app/storage/actions/cases.jsx"
+			],
+			[
+				"stylecss",
+				"style.css"
+			],
+			[
+				"layout",
+				"assets/src/javascripts/app/containers/Layout.jsx"
+			],
+			[
+				"partlissas",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"diagsass",
+				"assets/src/sass/partials/_shortcode-diagram.sass"
+			],
+			[
+				"ab",
+				"assets/src/javascripts/app/containers/Pages/About.jsx"
+			],
+			[
+				"defan",
+				"assets/src/javascripts/app/components/html/DefaultNode.jsx"
+			],
+			[
+				"masvg",
+				"assets/built/images/svg/man.svg"
+			],
+			[
+				"svgman",
+				"assets/src/images/svg/man.svg"
+			],
+			[
+				"chartsas",
+				"assets/src/sass/partials/_css-chart.sass"
+			],
+			[
+				"sec",
+				"assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"cases",
+				"assets/src/javascripts/app/storage/actions/cases.jsx"
+			],
+			[
+				"defa",
+				"assets/src/javascripts/app/components/html/DefaultNode.jsx"
+			],
+			[
+				"mansvg",
+				"assets/src/images/svg/man.svg"
+			],
+			[
+				"man",
+				"assets/src/images/svg/man.svg"
+			],
+			[
+				"app",
+				"assets/src/javascripts/app.jsx"
+			],
+			[
+				"prerender",
+				"assets/src/javascripts/prerender.jsx"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"srcjavascr",
+				"assets/src/javascripts/app.jsx"
+			],
+			[
+				"partlistsas",
+				"assets/src/sass/partials/_list.sass"
+			],
+			[
+				"slidersas",
+				"assets/src/sass/partials/_slider.sass"
+			],
+			[
+				"filtersss",
+				"assets/src/sass/partials/_archive-filters.sass"
+			],
+			[
+				"resetsass",
+				"assets/src/sass/components/_reset.sass"
+			],
+			[
+				"basae",
+				"assets/src/sass/partials/_base.sass"
+			],
+			[
+				"section-people-single",
+				"assets/src/sass/partials/_section-people-single.sass"
+			],
+			[
+				"gallerysas",
+				"assets/src/sass/partials/_gallery.sass"
+			],
+			[
+				"simple",
+				"assets/src/sass/helpers/_simple-transition.sass"
+			],
+			[
+				"headersass",
+				"assets/src/sass/partials/_main-header.sass"
+			],
+			[
+				"themeini",
+				"modules/theme/Initialization.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"bottom",
+				"assets/src/sass/bottom.sass"
+			],
+			[
+				"constfont",
+				"assets/src/sass/constants/_fonts.sass"
+			],
+			[
+				"constantslist",
+				"assets/src/sass/constants/_list.sass"
+			],
+			[
+				"aboptisas",
 				"assets/src/sass/partials/_about-options.sass"
 			],
 			[
-				"contentsas",
+				"abstesa",
+				"assets/src/sass/partials/_section-about-steps.sass"
+			],
+			[
+				"secheadsas",
+				"assets/src/sass/partials/_section-heading.sass"
+			],
+			[
+				"wordpressass",
+				"assets/src/sass/components/_wordpress.sass"
+			],
+			[
+				"moos",
+				"assets/src/sass/partials/_mooses.sass"
+			],
+			[
+				"section-about-steps",
+				"assets/src/sass/partials/_section-about-steps.sass"
+			],
+			[
+				"aboutphp",
+				"templates/about.php"
+			],
+			[
+				"navisass",
+				"assets/src/sass/partials/_top-navigation.sass"
+			],
+			[
+				"conte",
 				"assets/src/sass/components/_content.sass"
+			],
+			[
+				"optisas",
+				"assets/src/sass/partials/_about-options.sass"
 			],
 			[
 				"captiosass",
@@ -3246,110 +4193,6 @@
 			[
 				"captionsas",
 				"assets/src/sass/partials/_caption.sass"
-			],
-			[
-				"mooses",
-				"assets/src/sass/partials/_mooses.sass"
-			],
-			[
-				"resetsass",
-				"assets/src/sass/components/_reset.sass"
-			],
-			[
-				"basesa",
-				"assets/src/sass/partials/_base.sass"
-			],
-			[
-				"layout",
-				"assets/src/javascripts/app/containers/Layout.jsx"
-			],
-			[
-				"basesas",
-				"assets/src/sass/partials/_base.sass"
-			],
-			[
-				"shor",
-				"assets/src/sass/partials/_shortcode-diagram.sass"
-			],
-			[
-				"caption",
-				"assets/src/sass/partials/_caption.sass"
-			],
-			[
-				"headersas",
-				"assets/src/sass/partials/_main-header.sass"
-			],
-			[
-				"topnavsass",
-				"assets/src/sass/partials/_top-navigation.sass"
-			],
-			[
-				"optisass",
-				"assets/src/sass/partials/_about-options.sass"
-			],
-			[
-				"navi",
-				"assets/src/javascripts/app/components/navigation.jsx"
-			],
-			[
-				"headersass",
-				"assets/src/sass/partials/_main-header.sass"
-			],
-			[
-				"navisass",
-				"assets/src/sass/partials/_top-navigation.sass"
-			],
-			[
-				"contens",
-				"assets/src/sass/components/_content.sass"
-			],
-			[
-				"shorsass",
-				"assets/src/sass/partials/_shortcode-diagram.sass"
-			],
-			[
-				"color",
-				"assets/src/sass/constants/_colors.sass"
-			],
-			[
-				"partlistsas",
-				"assets/src/sass/partials/_list.sass"
-			],
-			[
-				"aboutjs",
-				"assets/src/javascripts/app/containers/Pages/About.jsx"
-			],
-			[
-				"stepssass",
-				"assets/src/sass/partials/_section-about-steps.sass"
-			],
-			[
-				"fontslist",
-				"assets/src/sass/fonts/_list.sass"
-			],
-			[
-				"fontslistsas",
-				"assets/src/sass/fonts/_list.sass"
-			],
-			[
-				"fontssass",
-				"assets/src/sass/fonts.sass"
-			],
-			[
-				"partlissas",
-				"assets/src/sass/partials/_list.sass"
-			],
-			[
-				"sectiheasas",
-				"assets/src/sass/partials/_section-heading.sass"
-			],
-			[
-				"index",
-				"index.php"
-			],
-			[
-				"ulpfi",
-				"gulpfile.js"
 			]
 		],
 		"width": 0.0
@@ -3357,16 +4200,24 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "af",
 		"selected_items":
 		[
 			[
-				"re",
-				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/redink-coding.sublime-project"
+				"af",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/afgruppen.sublime-project"
 			],
 			[
 				"",
-				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/env.sublime-project"
+				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/afgruppen.sublime-project"
+			],
+			[
+				"obk",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/obk.sublime-project"
+			],
+			[
+				"re",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/sublime tools/projects/redink-coding.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -3388,7 +4239,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 254.0,
+	"side_bar_width": 188.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

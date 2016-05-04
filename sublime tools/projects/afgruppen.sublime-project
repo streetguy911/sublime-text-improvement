@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"assets/node_modules"
+			],
+			"path": "/Users/volodymyr/Sites/vagrant/www/afgruppen"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
++bodyclass("${1:class}")
+    ${0}
+]]></content>
+  <tabTrigger>bcl</tabTrigger>
+  <scope>source.sass</scope>
+</snippet>

@@ -1,9 +1,7 @@
 <snippet>
     <content><![CDATA[
-&:before, 
-&:after
-    ${1:content: ''}${0}
++simple-transition
 ]]></content>
-    <tabTrigger>bea</tabTrigger>
+    <tabTrigger>sts</tabTrigger>
     <scope>source.sass</scope>
 </snippet>
